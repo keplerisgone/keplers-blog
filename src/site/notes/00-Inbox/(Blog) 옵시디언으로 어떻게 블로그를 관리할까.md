@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-inbox/blog/"}
+{"dg-publish":true,"permalink":"/00-inbox/blog/","tags":["gardenEntry"]}
 ---
 
 
@@ -16,7 +16,8 @@ HTML을 쓰는 이유는 디자인 편집의 자유성이라고 생각하는데,
 ### 사용법
 1. **Digital Garden** 플러그인을 옵시디언에서 깐다.
 2. Github, Vercel account를 만든다. (vercel은 github 계정으로 로그인 가능)
-3. 여기 [this repo](https://github.com/oleeskild/digitalgarden)로 가서 deploy 버튼을 눌러 어떤 repo를 clone 한다.
+3. 여기 [this repo](https://github.com/oleeskild/digitalgarden)로 가서 deploy 버튼을 눌러 repo를 clone 한다.
 4. token을 생성한다. [this page](https://github.com/settings/tokens/new?scopes=repo) 여기로 가면 자동으로 세팅된다.
 5. token 정보를 obsidian 플러그인 세팅에 입력한다.
-6. 
+6. note에 `dg-publish` 옵션을 `true`로 주면 커맨드로 publish 가능.
+7. publish하고 조금 기다리면 vercel 홈페이지에 뜬다.
