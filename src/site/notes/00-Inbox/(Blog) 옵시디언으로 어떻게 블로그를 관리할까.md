@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-inbox/blog/","tags":["gardenEntry"],"noteIcon":"","created":"2025-03-12T22:06:54.231+09:00","updated":"2025-03-29T23:45:47.044+09:00"}
+{"dg-publish":true,"permalink":"/00-inbox/blog/","tags":["gardenEntry"],"noteIcon":"","created":"2025-03-12T22:06:54.231+09:00","updated":"2025-03-29T23:45:55.043+09:00"}
 ---
 
 
@@ -26,4 +26,4 @@ HTML을 쓰는 이유는 디자인 편집의 자유성이라고 생각하는데,
 처음 만드니 민둥한 텍스트만 뜨길래 appearence setting을 해주었다. index도 만들어주고... graph view도 만들어주고...
 다 했더니 이뻐졌다.
 
-![Uploading file...ax3nj]()
+![|900](https://i.imgur.com/Oysbdnr.png)
