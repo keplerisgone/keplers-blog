@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-inbox/blog/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/00-inbox/blog/","tags":["gardenEntry"],"noteIcon":"","created":"2025-03-12T22:06:54.231+09:00","updated":"2025-03-29T23:45:47.044+09:00"}
 ---
 
 
@@ -14,6 +14,7 @@ HTML을 쓰는 이유는 디자인 편집의 자유성이라고 생각하는데,
 
 설치법은 공식 문서를 참고했다. [link](https://dg-docs.ole.dev/getting-started/01-getting-started/)
 ### 사용법
+
 1. **Digital Garden** 플러그인을 옵시디언에서 깐다.
 2. Github, Vercel account를 만든다. (vercel은 github 계정으로 로그인 가능)
 3. 여기 [this repo](https://github.com/oleeskild/digitalgarden)로 가서 deploy 버튼을 눌러 repo를 clone 한다.
@@ -21,3 +22,8 @@ HTML을 쓰는 이유는 디자인 편집의 자유성이라고 생각하는데,
 5. token 정보를 obsidian 플러그인 세팅에 입력한다.
 6. note에 `dg-publish` 옵션을 `true`로 주면 커맨드로 publish 가능.
 7. publish하고 조금 기다리면 vercel 홈페이지에 뜬다.
+
+처음 만드니 민둥한 텍스트만 뜨길래 appearence setting을 해주었다. index도 만들어주고... graph view도 만들어주고...
+다 했더니 이뻐졌다.
+
+![Uploading file...ax3nj]()
