@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-area/coding-test/coding-test-111111111/","noteIcon":"","created":"2025-03-13T13:24:58.959+09:00","updated":"2025-04-01T22:45:33.628+09:00"}
+{"dg-publish":true,"permalink":"/02-Area/CodingTest/(CodingTest) 111111111!/","noteIcon":"","created":"2025-03-13T13:24:58.959+09:00","updated":"2025-04-01T22:45:33.628+09:00"}
 ---
 
 ## 문제

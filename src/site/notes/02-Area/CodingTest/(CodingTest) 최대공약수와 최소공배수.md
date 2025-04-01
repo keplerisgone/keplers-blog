@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-area/coding-test/coding-test/","noteIcon":"","created":"2025-03-18T22:58:56.817+09:00","updated":"2025-04-01T22:46:28.628+09:00"}
+{"dg-publish":true,"permalink":"/02-Area/CodingTest/(CodingTest) 최대공약수와 최소공배수/","noteIcon":"","created":"2025-03-18T22:58:56.817+09:00","updated":"2025-04-01T22:46:28.628+09:00"}
 ---
 
 ## 문제

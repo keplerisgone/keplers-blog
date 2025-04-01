@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-area/nvim/nvim-nvim-theme-redparty/","tags":["Area/Nvim"],"noteIcon":"","created":"2025-03-01T22:57:00.000+09:00","updated":"2025-04-01T22:58:33.446+09:00"}
+{"dg-publish":true,"permalink":"/02-Area/Nvim/(Nvim) Nvim theme - Redparty/","tags":["Area/Nvim"],"noteIcon":"","created":"2025-03-01T22:57:00.000+09:00","updated":"2025-04-01T22:58:33.446+09:00"}
 ---
 
 빨간색을 좋아하는 사람이 만든 빨강빨강 테마.

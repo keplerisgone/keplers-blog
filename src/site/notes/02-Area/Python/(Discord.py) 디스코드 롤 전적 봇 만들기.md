@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-area/python/discord-py/","tags":["Area/Python"],"noteIcon":"","created":"2025-01-05T15:55:25.000+09:00","updated":"2025-04-01T22:53:50.586+09:00"}
+{"dg-publish":true,"permalink":"/02-Area/Python/(Discord.py) 디스코드 롤 전적 봇 만들기/","tags":["Area/Python"],"noteIcon":"","created":"2025-01-05T15:55:25.000+09:00","updated":"2025-04-01T22:53:50.586+09:00"}
 ---
 
 # 디스코드 롤 전적 봇 만들기

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-area/coding-test/coding-test/","noteIcon":"","created":"2025-03-15T15:42:58.455+09:00","updated":"2025-04-01T22:46:19.040+09:00"}
+{"dg-publish":true,"permalink":"/02-Area/CodingTest/(CodingTest) 약수의 합/","noteIcon":"","created":"2025-03-15T15:42:58.455+09:00","updated":"2025-04-01T22:46:19.040+09:00"}
 ---
 
 

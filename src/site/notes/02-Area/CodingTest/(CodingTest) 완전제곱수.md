@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-area/coding-test/coding-test/","noteIcon":"","created":"2025-03-13T00:28:13.619+09:00","updated":"2025-04-01T22:46:26.539+09:00"}
+{"dg-publish":true,"permalink":"/02-Area/CodingTest/(CodingTest) 완전제곱수/","noteIcon":"","created":"2025-03-13T00:28:13.619+09:00","updated":"2025-04-01T22:46:26.539+09:00"}
 ---
 
 

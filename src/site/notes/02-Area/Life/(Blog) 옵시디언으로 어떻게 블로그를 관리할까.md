@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-area/life/blog/","tags":["gardenEntry"],"noteIcon":"","created":"2025-03-12T22:06:54.231+09:00","updated":"2025-03-29T23:51:42.281+09:00"}
+{"dg-publish":true,"permalink":"/02-Area/Life/(Blog) 옵시디언으로 어떻게 블로그를 관리할까/","tags":["gardenEntry"],"noteIcon":"","created":"2025-03-12T22:06:54.231+09:00","updated":"2025-03-29T23:51:42.281+09:00"}
 ---
 
 

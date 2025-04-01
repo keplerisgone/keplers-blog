@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-area/raspberry-pi/raspberry-pi/","tags":["Area/RaspberryPi"],"noteIcon":"","created":"2025-01-05T15:55:32.000+09:00","updated":"2025-04-01T22:51:53.586+09:00"}
+{"dg-publish":true,"permalink":"/02-Area/RaspberryPi/(RaspberryPi) 라즈베리파이를 로컬로 접속하고 싶다/","tags":["Area/RaspberryPi"],"noteIcon":"","created":"2025-01-05T15:55:32.000+09:00","updated":"2025-04-01T22:51:53.586+09:00"}
 ---
 
 # 라즈베리파이를 로컬로 접속하고 싶다
